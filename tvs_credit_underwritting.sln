@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tvs_credit_underwritting", "tvs_credit_underwritting\tvs_credit_underwritting.csproj", "{B04C6EEF-E16F-402D-882F-7218C8AB5306}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Underwritting_WebApi3", "Underwritting_WebApi3\Underwritting_WebApi3.csproj", "{8B7251AC-4B56-4DCB-B819-F1D3A0D614B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B04C6EEF-E16F-402D-882F-7218C8AB5306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04C6EEF-E16F-402D-882F-7218C8AB5306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04C6EEF-E16F-402D-882F-7218C8AB5306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04C6EEF-E16F-402D-882F-7218C8AB5306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7251AC-4B56-4DCB-B819-F1D3A0D614B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7251AC-4B56-4DCB-B819-F1D3A0D614B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7251AC-4B56-4DCB-B819-F1D3A0D614B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7251AC-4B56-4DCB-B819-F1D3A0D614B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F88A9E9D-4B88-42A9-9A4A-B149A3C4CA71}
+	EndGlobalSection
+EndGlobal
